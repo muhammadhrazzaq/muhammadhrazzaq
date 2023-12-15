@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadhrazzaq
-- 👀 I’m interested in any sort of development role
-- 🌱 I’m currently not working anywhere I just did my masters in Artificial Intelligence improving my python skills and learning devops side aswell.
+- 👀 I’m interested in any sort of data related development role
+- 🌱 I’m currently working as an senior mlops/ data engineer.
 - 💞️ I’m looking to collaborate on any project related to development 
 - 📫 How to reach me please email me at muhammad.h.razzaq@gmail.com
 
