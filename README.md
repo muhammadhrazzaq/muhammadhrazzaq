@@ -1,4 +1,4 @@
-# Hey, I'm Mo 👋
+# Hey 👋
 
 Data Engineer based in UK. I own full AWS data infrastructure end to end, build AI-powered tools, and obsess over clean pipelines.
 
