@@ -50,7 +50,7 @@ Match winner prediction system with RAG chatbot and full ML pipeline.
 ## 📫 Get in touch
 
 - Email: muhammad.h.razzaq@gmail.com
-- Open to: Senior Data Engineer · Platform Engineer · Data/MLOps hybrid roles
+- Open to: Senior/Principle Data Engineer · Platform Engineer · Data/MLOps hybrid roles
 
 ---
 
